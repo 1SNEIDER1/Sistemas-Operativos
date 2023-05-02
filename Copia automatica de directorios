@@ -1,0 +1,1 @@
+robocopy "D:\SISTEMAS OP\carpeta_inicio" "D:\SISTEMAS OP\carpeta_destino%date:~5,2%-%date:~8,2%-%date~11,4%-%time:~0,2%-%time:~3,2%-%time:~6,2% %" /S /E
